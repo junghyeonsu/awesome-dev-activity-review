@@ -28,11 +28,18 @@
 
 # 🙏 Contribute
 
-> 작성중입니다.
-
 모든 글들은 해당 글 주인의 허락을 맡고 올릴 예정입니다.<br>
-또는 자신이 직접 올리고 싶다면 `Pull Request`를 올려주세요.
-(`Pull Request` 템플릿 작성중...)
+또는 자신이 직접 올리고 싶다면 `Pull Request`를 올려주세요.<br>
+`Pull Request`는 `Pull Request Template`를 참고해주세요.<br>
+
+```
+<!-- 
+  - 날짜: 2021/03/12 (양식을 지켜주세요!)
+  - 리뷰 링크: https://github.com/junghyeonsu
+  - 지원 혹은 활동 기업: (카카오, 토스, 네이버, 우아한형제들, etc...)
+  - 활동 종류: (인턴, 코딩테스트, 세미나, 취업, etc...)
+-->
+```
 
 <br>
 <br>
