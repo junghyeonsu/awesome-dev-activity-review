@@ -32,6 +32,8 @@
 또는 자신이 직접 올리고 싶다면 `Issue`를 올려주세요.<br>
 `Issue`는 `Issue Template`를 참고해주세요.<br>
 
+[이슈 쓰러가기](https://github.com/junghyeonsu/awesome-dev-activity-review/issues/new)
+
 ```
 <!-- 
   - 날짜: 2021/03/12 (양식을 지켜주세요!)
