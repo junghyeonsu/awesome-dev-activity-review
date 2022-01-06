@@ -29,8 +29,8 @@
 # 🙏 Contribute
 
 모든 글들은 해당 글 주인의 허락을 맡고 올릴 예정입니다.<br>
-또는 자신이 직접 올리고 싶다면 `Pull Request`를 올려주세요.<br>
-`Pull Request`는 `Pull Request Template`를 참고해주세요.<br>
+또는 자신이 직접 올리고 싶다면 `Issue`를 올려주세요.<br>
+`Issue`는 `Issue Template`를 참고해주세요.<br>
 
 ```
 <!-- 
