@@ -86,6 +86,9 @@
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 최종 후기 | compy](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%ED%9B%84%EA%B8%B0)
 - [[우아한테크코스 4기] 최종테스트 회고 | 김예지](https://velog.io/@rladpwl0512/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EC%B5%9C%EC%A2%85%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 
+<br>
+<br>
+
 # 카카오
 
 <img width="500px" height="360px" src="https://user-images.githubusercontent.com/54893898/148375385-86bbc49f-4d3c-4fd7-bc16-bfbc861b2101.png" />
@@ -95,6 +98,9 @@
 ### 인턴 후기
 
 - [2021 카카오 인턴 후기 | Dev_Pingu](https://icksw.tistory.com/263)
+
+<br>
+<br>
 
 # 당근마켓
 
