@@ -88,7 +88,7 @@
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 1주차 후기 | compy | 2021/11/25](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
 - [[우테코 프리코스] 1주차 과제 회고 | SeongWon Oh | 2021/11/28](https://velog.io/@seongwon97/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0)
 
-### 프리코스 2주차: 자둥차 경주 게임
+### 프리코스 2주차: 자동차 경주 게임
 
 - [[우아한테크코스 4기] 프리코스 2주차: 자동차 경주 게임 회고 | 정현수 | 2021/12/06](https://junghyeonsu.tistory.com/229?category=903390)
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 2주차 후기 | compy | 2021/12/07](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
