@@ -35,7 +35,9 @@
 [이슈 쓰러가기](https://github.com/junghyeonsu/awesome-dev-activity-review/issues/new)
 
 ```
-<!-- 
+<!--
+  - 글 제목: 카카오 지원 후기
+  - 작성자: 정현수
   - 날짜: 2021/03/12 (양식을 지켜주세요!)
   - 리뷰 링크: https://github.com/junghyeonsu
   - 지원 혹은 활동 기업: (카카오, 토스, 네이버, 우아한형제들, etc...)
@@ -61,6 +63,7 @@
 <br>
 
 ---
+
 # 우아한형제들
 
 <img width="500px" height="210px" src="https://user-images.githubusercontent.com/54893898/148374846-61547776-eacb-4e61-9a30-06945d0d2d76.png" />
