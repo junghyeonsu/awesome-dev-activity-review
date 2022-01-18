@@ -54,14 +54,16 @@
   - [우아한테크캠프 4기](#우아한테크캠프-4기)
   - [우아한테크코스 4기](#우아한테크코스-4기)
 - [카카오](#카카오)
-  - [2021 카카오 신입공채](#2021-카카오-신입공채)
+  - [2021 카카오 공채 신입개발자 블라인드 채용](#2021-카카오-공채-신입개발자-블라인드-채용)
   - [2021 카카오 인턴십 for Tech developers](2021-카카오-인턴십-for-Tech-developers)
 - [카카오엔터프라이즈](##-카카오엔터프라이즈)
-  - [2021 공채](#2021-공채)
+  - [2021 카카오 공채 신입개발자 블라인드 채용](#2021-카카오-공채-신입개발자-블라인드-채용)
   - [2020 개발 인턴십](#2020-개발-인턴십)
   - [근무 후기](#근무-후기)
 - [카카오페이](#카카오페이)
   - [2021 카카오 공채 신입개발자 블라인드 채용](#2021-카카오-공채-신입개발자-블라인드-채용)
+- [카카오엔터테인먼트](#카카오엔터테인먼트)
+  - [2022 카카오 공채 신입개발자 블라인드 채용](#2022-카카오-공채-신입개발자-블라인드-채용)
 - [네이버](#네이버)
   - [2021 네이버 신입 공채](#2021-네이버-신입-공채)
 - [토스](#토스)
@@ -106,6 +108,7 @@
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 1주차 후기 | compy | 2021/11/25](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
 - [[우테코 프리코스] 1주차 과제 회고 | SeongWon Oh | 2021/11/28](https://velog.io/@seongwon97/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0)
 - [[우아한테크코스]프리코스 1주차 학습 내용 | 이동현 | 2021/11/30](https://velog.io/@dom_hxrdy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%95%99%EC%8A%B5-%EB%82%B4%EC%9A%A9)
+- [[우아한 테크코스] 프리코스 1주차 회고 | 아놀드 | 2021/12/01](https://velog.io/@front/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 
 ### 프리코스 2주차: 자동차 경주 게임
 
@@ -113,6 +116,7 @@
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 2주차 후기 | compy | 2021/12/07](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
 - [[우테코 프리코스] 2주차 과제 회고 | SeongWon Oh | 2021/12/03](https://velog.io/@seongwon97/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0)
 - [[우아한테크코스]프리코스 2주차 학습 내용 | 이동현 | 2021/12/07](https://velog.io/@dom_hxrdy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%95%99%EC%8A%B5-%EB%82%B4%EC%9A%A9)
+- [[우아한 테크코스] 프리코스 2주차 회고 | 아놀드 | 2021/12/08](https://velog.io/@front/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 
 ### 프리코스 3주차: 자판기
 
@@ -120,6 +124,7 @@
 - [우아한테크코스 4기 프론트엔드 과정, 프리코스 3주차 후기 | compy | 2021/12/13](https://velog.io/@compy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B3%BC%EC%A0%95-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
 - [[우테코 프리코스] 3주차 과제 회고 | SeongWon Oh | 2021/12/14](https://velog.io/@seongwon97/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0)
 - [[우아한테크코스]프리코스 3주차 학습 내용 및 회고 | 이동현 | 2021/12/14](https://velog.io/@dom_hxrdy/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%95%99%EC%8A%B5-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)
+- [[우아한 테크코스] 프리코스 3주차 회고 | 아놀드 | 2021/12/15](https://velog.io/@front/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 
 ### 프리코스 전체 회고
 
@@ -138,6 +143,7 @@
 - [[우테코] 최종 코딩테스트 후기 | SeongWon Oh | 2021/12/18](https://velog.io/@seongwon97/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 - [[우테코] 우아한테크코스 4기 최종 테스트 후기 (+합격) | prefer2 | 2021/12/30](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EC%B5%9C%EC%A2%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0-%ED%95%A9%EA%B2%A9?category=1229260)
 - [우아한 테크코스 프론트엔드 4기 최종테스트 후기 | baby_dev | 2021/12/18](https://velog.io/@baby_dev/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-4%EA%B8%B0-%EC%B5%9C%EC%A2%85%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+- [[우아한 테크코스] 최종 테스트 및 결과 | 아놀드 | 2021/12/31](https://velog.io/@front/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EA%B2%B0%EA%B3%BC)
 
 <br>
 <br>
@@ -146,7 +152,7 @@
 
 <img width="500px" height="360px" src="https://user-images.githubusercontent.com/54893898/148375385-86bbc49f-4d3c-4fd7-bc16-bfbc861b2101.png" />
 
-## 2021 카카오 신입공채
+## 2021 카카오 공채 신입개발자 블라인드 채용
 
 ### 지원 후기
 
@@ -177,6 +183,10 @@
 - [카카오 2021 인턴 코딩테스트, 면접 후기 | hellojane | 2021/09/16](https://velog.io/@hellojane/2021-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%9D%B8%ED%84%B4-iOS-%EC%9D%B8%ED%84%B4%EC%8B%AD-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
 - [2021 카카오 여름 인턴십 지원 및 서류 합격 | somida | 2021/06/30](https://somida.tistory.com/168)
 
+### 정규 전환 후기
+
+- [비전공자의 2021 카카오 인턴 개발자 최종 합격 회고 | 건강한개발자 | 2021/09/09](https://gona.tistory.com/71)
+
 <br>
 <br>
 
@@ -184,7 +194,7 @@
 
 <img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/149156645-b7425225-31aa-40d9-aacf-dd8cb7ff3524.png" />
 
-## 2021 카카오 블라인드 공채
+## 2021 카카오 공채 신입개발자 블라인드 채용
 
 ### 행사 안내
 
@@ -209,11 +219,30 @@
 
 <img width="500px" height="400px" src="https://user-images.githubusercontent.com/54893898/149159054-13b00c74-f910-4aa2-ad93-84c4a2291730.png" />
 
+## 2022 카카오 공채 신입개발자 블라인드 채용
+
+### 합격 후기
+
+- [[취업 수기] 2022 카카오 공채 (신입 개발자 블라인드 채용) 합격 후기 - 카카오 페이 | 뀨뀨찬찬 | 2021/12/19](https://velog.io/@dls4585/%EC%B7%A8%EC%97%85-%EC%88%98%EA%B8%B0-2022-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B3%B5%EC%B1%84-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%EC%B1%84%EC%9A%A9-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%8E%98%EC%9D%B4)
+
 ## 2021 카카오 공채 신입개발자 블라인드 채용
 
 ### 합격 후기
 
 - [[취업]2021 카카오 공채 신입 개발자 블라인드 채용 합격 후기 - 카카오페이 | 징진 | 2020/12/09](https://blog.naver.com/paula23/222167420683)
+
+<br>
+<br>
+
+# 카카오엔터테인먼트
+
+<img width="500px" height="300px" src="https://user-images.githubusercontent.com/54893898/149949579-087023ea-c0d9-4cff-b019-3d03f43ad6f2.png" />
+
+## 2021 카카오 공채 신입개발자 블라인드 채용
+
+### 지원 후기
+
+- [2021 취준 후기 및 회고 - 5. 카카오엔터테인먼트 공채 | 코린이입니다 | 2021/12/12](https://juna-dev.tistory.com/54)
 
 <br>
 <br>
@@ -235,6 +264,7 @@
 ### 합격 후기
 
 - [2021 상반기 네이버 신입공채 최종 합격 후기 | ENAN | 2021/07/25](https://velog.io/@enan/2021-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%A0%EC%9E%85%EA%B3%B5%EC%B1%84-%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
+- [2021 취준 후기 및 회고 - 2. 네이버 공채 | 코린이입니다 | 2021/12/12](https://juna-dev.tistory.com/51?category=902841)
 
 <br>
 <br>
