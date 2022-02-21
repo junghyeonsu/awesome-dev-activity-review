@@ -79,6 +79,13 @@
   - [SSAFY (싸피)](<#SSAFY-(싸피)>)
 - [프로그래머스](#프로그래머스)
   - [2021 Dev Matching](#2021-Dev-Matching)
+- [소프트웨어 마에스트로](#소프트웨어-마에스트로)
+  - [13기](#13기)
+  - [12기](#12기)
+  - [11기](#11기)
+- [NEXTSTEP](#NEXTSTEP)
+  - [이펙티브 코틀린](#이펙티브-코틀린)
+  - [클린코드를 위한 TDD, 리팩토링 with Java](#클린코드를-위한-TDD,-리팩토링-with-Java)
 
 <br>
 <br>
@@ -305,3 +312,48 @@
 | 종류 | 제목 | 작성자 | 날짜 |
 | --- | --- | --- | --- |
 | 웹 백엔드 지원 후기 | [[취업준비] 프로그래머스 - 2021 Dev-Matching : 웹 백엔드 개발자 후기](https://donghak-dev.tistory.com/184) | Mark31 | - |
+
+# 소프트웨어 마에스트로
+
+<img width="500px" height="450px" src="https://user-images.githubusercontent.com/54893898/154945707-c022ed10-e3c1-4ffd-8cc2-f8f6ec4e1c39.png">
+
+## 13기
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- |
+| 프로그램 소개 및 조언 | [소프트웨어 마에스트로 제13기 모집 공고 + 지원 조언](https://velog.io/@genyf/소프트웨어-마에스트로-13기-모집-공고-지원-조언) | genyf | 2022/01/18 |
+
+## 12기
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- |
+| 합격생 인터뷰 | [역대 최고 경쟁률!! 제12기 연수생 합격 인터뷰 후기](https://www.swmaestro.org/sw/bbs/B0000002/view.do?nttId=23759&menuNo=200019&pageIndex=1) | SW마에스트로 | 2021/05/06 |
+| 코테 및 면접 후기 | [SW마에스트로 12기 코딩테스트 및 면접 회고](https://crong-dev.tistory.com/66) | 개발하는 크롱 | 2021/04/05 |
+| 프로그램 후기 | [[SW마에스트로] 소프트웨어 마에스트로 11기 연수과정 후기 및 꿀팁](https://cryptosalamander.tistory.com/119) | algosketch  | 2021/06/20 |
+
+## 11기
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- |
+| 합격 후기 및 중간 후기 | [SW마에스트로 12기 면접, 최종합격 후기 및 연수 중간 후기](https://algosketch.tistory.com/120) | Hyunsoo Luke HA | 2020/12/16 |
+
+# NEXTSTEP
+
+<img width="500px" height="500px" src="https://user-images.githubusercontent.com/54893898/154951732-66391bd2-1c1f-4121-b250-1448f82e88b3.png">
+
+## 이펙티브 코틀린
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- |
+| 교육과정 후기 | [NEXTSTEP 교육과정 후기 (feat. 이펙티브 코틀린)](https://skasha.tistory.com/102) | SKaSha | 2021/04/11 |
+
+## 클린코드를 위한 TDD, 리팩토링 with Java
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- |
+| 13기 교육과정 1-2주차 회고 | [[NextStep] TDD, Clean Code with Java 13기 1~2주차(자동차 경주) 회고](https://kdhyo98.tistory.com/68?category=857682) | 동효 | 2021/11/15 |
+| 교육과정 소개 | [TDD, Clean Code with Java 시작하며..](https://loopstudy.tistory.com/34) | loop-study | 2021/03/18 |
+| 교육과정 후기 | [Next Step - 온라인 후기](https://brunch.co.kr/@javajigi/19#comment) | 박재성 | 2020/07/08 |
+| 교육과정 후기 | [[후기] NextStep - TDD, Clean Code with Java](https://jjingho.tistory.com/42) | 짱호 | 2020/10/20 |
+
+
