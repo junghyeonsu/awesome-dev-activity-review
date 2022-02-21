@@ -92,7 +92,7 @@
 
 ---
 
-# 우아한형제들
+# [우아한형제들](https://www.woowahan.com/)
 
 <img width="500px" height="210px" src="https://user-images.githubusercontent.com/54893898/148374846-61547776-eacb-4e61-9a30-06945d0d2d76.png" />
 
@@ -142,7 +142,7 @@
 <br>
 <br>
 
-# 카카오
+# [카카오](https://www.kakaocorp.com/page/)
 
 <img width="500px" height="360px" src="https://user-images.githubusercontent.com/54893898/148375385-86bbc49f-4d3c-4fd7-bc16-bfbc861b2101.png" />
 
@@ -176,7 +176,7 @@
 <br>
 <br>
 
-# 카카오엔터프라이즈
+# [카카오엔터프라이즈](https://www.kakaoenterprise.com/)
 
 <img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/149156645-b7425225-31aa-40d9-aacf-dd8cb7ff3524.png" />
 
@@ -197,7 +197,7 @@
 <br>
 <br>
 
-# 카카오페이
+# [카카오페이](https://www.kakaopay.com/)
 
 <img width="500px" height="400px" src="https://user-images.githubusercontent.com/54893898/149159054-13b00c74-f910-4aa2-ad93-84c4a2291730.png" />
 
@@ -216,7 +216,7 @@
 <br>
 <br>
 
-# 카카오엔터테인먼트
+# [카카오엔터테인먼트](https://kakaoent.com/)
 
 <img width="500px" height="300px" src="https://user-images.githubusercontent.com/54893898/149949579-087023ea-c0d9-4cff-b019-3d03f43ad6f2.png" />
 
@@ -229,7 +229,7 @@
 <br>
 <br>
 
-# 네이버
+# [네이버](https://www.navercorp.com/)
 
 <img width="500px" height="200px" src="https://user-images.githubusercontent.com/54893898/149158000-92b90b9f-fc04-4bdf-b9b2-214a2d0ffae9.png" />
 
@@ -245,7 +245,7 @@
 <br>
 <br>
 
-# 네이버 웹툰
+# [네이버 웹툰](https://webtoonscorp.com/)
 
 <img width="500px" height="500px" src="https://user-images.githubusercontent.com/54893898/152290345-8281e5b0-e20a-467d-bf4e-1e582a90fd15.png" />
 
@@ -258,7 +258,7 @@
 <br>
 <br>
 
-# 토스
+# [토스](https://toss.im/team)
 
 <img width="500px" height="280px" src="https://user-images.githubusercontent.com/54893898/149153441-216f2fde-7f90-4043-84c8-94337f7a2833.png" />
 
@@ -271,7 +271,7 @@
 <br>
 <br>
 
-# 당근마켓
+# [당근마켓](https://team.daangn.com/)
 
 <img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/148375164-c77e6fba-defb-4ec0-bf5c-4734cbb9c511.png" />
 
@@ -290,7 +290,7 @@
 <br>
 <br>
 
-# 삼성
+# [삼성](https://www.samsung.com/sec/aboutsamsung/home/)
 
 <img width="500px" height="280px" src="https://user-images.githubusercontent.com/54893898/149155282-f5fab28a-9d82-405f-b109-771cbe4ee58a.png" />
 
@@ -303,7 +303,7 @@
 <br>
 <br>
 
-# 프로그래머스
+# [프로그래머스](https://programmers.co.kr/)
 
 <img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/152288010-731859c7-40cf-42fe-87a5-574f4e01d236.png" />
 
@@ -313,7 +313,7 @@
 | --- | --- | --- | --- |
 | 웹 백엔드 지원 후기 | [[취업준비] 프로그래머스 - 2021 Dev-Matching : 웹 백엔드 개발자 후기](https://donghak-dev.tistory.com/184) | Mark31 | - |
 
-# 소프트웨어 마에스트로
+# [소프트웨어 마에스트로](https://www.swmaestro.org/sw/main/main.do)
 
 <img width="500px" height="450px" src="https://user-images.githubusercontent.com/54893898/154945707-c022ed10-e3c1-4ffd-8cc2-f8f6ec4e1c39.png">
 
@@ -337,7 +337,7 @@
 | --- | --- | --- | --- |
 | 합격 후기 및 중간 후기 | [SW마에스트로 12기 면접, 최종합격 후기 및 연수 중간 후기](https://algosketch.tistory.com/120) | Hyunsoo Luke HA | 2020/12/16 |
 
-# NEXTSTEP
+# [NEXTSTEP](https://edu.nextstep.camp/)
 
 <img width="500px" height="500px" src="https://user-images.githubusercontent.com/54893898/154951732-66391bd2-1c1f-4121-b250-1448f82e88b3.png">
 
