@@ -85,7 +85,7 @@
   - [11기](#11기)
 - [NEXTSTEP](#NEXTSTEP)
   - [이펙티브 코틀린](#이펙티브-코틀린)
-  - [클린코드를 위한 TDD, 리팩토링 with Java](#클린코드를-위한-TDD,-리팩토링-with-Java)
+  - [클린코드를 위한 TDD 리팩토링 with Java](#클린코드를-위한-TDD-리팩토링-with-Java)
 
 <br>
 <br>
@@ -347,7 +347,7 @@
 | --- | --- | --- | --- |
 | 교육과정 후기 | [NEXTSTEP 교육과정 후기 (feat. 이펙티브 코틀린)](https://skasha.tistory.com/102) | SKaSha | 2021/04/11 |
 
-## 클린코드를 위한 TDD, 리팩토링 with Java
+## 클린코드를 위한 TDD 리팩토링 with Java
 
 | 종류 | 제목 | 작성자 | 날짜 |
 | --- | --- | --- | --- |
