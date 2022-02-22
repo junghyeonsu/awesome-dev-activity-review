@@ -329,13 +329,13 @@
 | --- | --- | --- | --- |
 | 합격생 인터뷰 | [역대 최고 경쟁률!! 제12기 연수생 합격 인터뷰 후기](https://www.swmaestro.org/sw/bbs/B0000002/view.do?nttId=23759&menuNo=200019&pageIndex=1) | SW마에스트로 | 2021/05/06 |
 | 코테 및 면접 후기 | [SW마에스트로 12기 코딩테스트 및 면접 회고](https://crong-dev.tistory.com/66) | 개발하는 크롱 | 2021/04/05 |
-| 프로그램 후기 | [[SW마에스트로] 소프트웨어 마에스트로 11기 연수과정 후기 및 꿀팁](https://cryptosalamander.tistory.com/119) | algosketch  | 2021/06/20 |
+| 합격 후기 및 중간 후기 | [SW마에스트로 12기 면접, 최종합격 후기 및 연수 중간 후기](https://algosketch.tistory.com/120) | Hyunsoo Luke HA | 2020/12/16 |
 
 ## 11기
 
 | 종류 | 제목 | 작성자 | 날짜 |
 | --- | --- | --- | --- |
-| 합격 후기 및 중간 후기 | [SW마에스트로 12기 면접, 최종합격 후기 및 연수 중간 후기](https://algosketch.tistory.com/120) | Hyunsoo Luke HA | 2020/12/16 |
+| 프로그램 후기 | [[SW마에스트로] 소프트웨어 마에스트로 11기 연수과정 후기 및 꿀팁](https://cryptosalamander.tistory.com/119) | algosketch  | 2021/06/20 |
 
 # [NEXTSTEP](https://edu.nextstep.camp/)
 
