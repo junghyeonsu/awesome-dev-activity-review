@@ -80,8 +80,6 @@
   - [수시채용](#수시채용)
 - [삼성](#삼성)
   - [SSAFY (싸피)](<#SSAFY-(싸피)>)
-- [프로그래머스](#프로그래머스)
-  - [2021 Dev Matching](#2021-Dev-Matching)
 - [소프트웨어 마에스트로](#소프트웨어-마에스트로)
   - [13기](#13기)
   - [12기](#12기)
@@ -89,6 +87,8 @@
 - [NEXTSTEP](#NEXTSTEP)
   - [이펙티브 코틀린](#이펙티브-코틀린)
   - [클린코드를 위한 TDD 리팩토링 with Java](#클린코드를-위한-TDD-리팩토링-with-Java)
+<!-- - [프로그래머스](#프로그래머스)
+  - [2021 Dev Matching](#2021-Dev-Matching) -->
 
 <br>
 <br>
@@ -339,16 +339,6 @@
 <br>
 <br>
 
-# [프로그래머스](https://programmers.co.kr/)
-
-<img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/152288010-731859c7-40cf-42fe-87a5-574f4e01d236.png" />
-
-## 2021 Dev Matching
-
-| 종류 | 제목 | 작성자 | 날짜 |
-| --- | --- | --- | --- |
-| 웹 백엔드 지원 후기 | [[취업준비] 프로그래머스 - 2021 Dev-Matching : 웹 백엔드 개발자 후기](https://donghak-dev.tistory.com/184) | Mark31 | - |
-
 # [소프트웨어 마에스트로](https://www.swmaestro.org/sw/main/main.do)
 
 <img width="500px" height="450px" src="https://user-images.githubusercontent.com/54893898/154945707-c022ed10-e3c1-4ffd-8cc2-f8f6ec4e1c39.png">
@@ -394,3 +384,11 @@
 | 교육과정 후기 | [Next Step - 온라인 후기](https://brunch.co.kr/@javajigi/19#comment) | 박재성 | 2020/07/08 |
 | 교육과정 후기 | [[후기] NextStep - TDD, Clean Code with Java](https://jjingho.tistory.com/42) | 짱호 | 2020/10/20 |
 
+<!-- # [프로그래머스](https://programmers.co.kr/)
+
+<img width="500px" height="270px" src="https://user-images.githubusercontent.com/54893898/152288010-731859c7-40cf-42fe-87a5-574f4e01d236.png" />
+
+## 2021 Dev Matching
+
+| 종류 | 제목 | 작성자 | 날짜 |
+| --- | --- | --- | --- | -->
