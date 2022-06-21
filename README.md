@@ -277,7 +277,7 @@
 
 | 종류 | 제목 | 작성자 | 날짜 |
 | --- | --- | --- | --- |
-| 합격 후기 | [2022 상반기 네이버웹툰 신입 공채 합격 회고](https://backtony.github.io/review/2022-05-27-review-1/) | backtony | 2022/05/27 |
+| 합격 후기 | [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0) | backtony | 2022/06/19 |
 
 ## 2021 네이버 웹툰 신입 공채
 
