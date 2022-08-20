@@ -1,6 +1,7 @@
 {
   "name": "awesome-dev-activity-review-web",
   "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "start": "next start",
