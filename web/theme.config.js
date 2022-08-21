@@ -1,7 +1,7 @@
 // theme.config.js
 export default {
   projectLink: 'https://github.com/junghyeonsu/awesome-dev-activity-review', // GitHub link in the navbar
-  docsRepositoryBase: 'https://github.com/junghyeonsu/awesome-dev-activity-review', // base URL for the docs repository
+  docsRepositoryBase: 'https://github.com/junghyeonsu/awesome-dev-activity-review/web', // base URL for the docs repository
   titleSuffix: ' - Awesome-review',
   nextLinks: true,
   prevLinks: true,
