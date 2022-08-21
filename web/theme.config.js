@@ -24,5 +24,4 @@ export default {
       <meta name="og:title" content="Nextra: the next docs builder" />
     </>
   ),
-  i18n: [{ locale: "ko", text: "한국어" }],
 }
