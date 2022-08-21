@@ -1,5 +1,7 @@
 ![undraw_Code_review_re_woeb](https://user-images.githubusercontent.com/54893898/148061590-b620eafe-15e3-405b-9a37-8c8744f4e856.png)
 
+# [2022/08/21 웹 추가](https://awesome-dev-activity-review.vercel.app/)
+
 # 📃 awesome-dev-activity-review
 
 ### 세상의 모든 개발 활동 리뷰 모음
@@ -45,7 +47,7 @@
 -->
 ```
 
-<br>
+<!-- <br>
 <br>
 
 # 📎 목차
@@ -87,10 +89,10 @@
   - [11기](#11기)
 - [NEXTSTEP](#NEXTSTEP)
   - [이펙티브 코틀린](#이펙티브-코틀린)
-  - [클린코드를 위한 TDD 리팩토링 with Java](#클린코드를-위한-TDD-리팩토링-with-Java)
+  - [클린코드를 위한 TDD 리팩토링 with Java](#클린코드를-위한-TDD-리팩토링-with-Java) -->
 <!-- - [프로그래머스](#프로그래머스)
   - [2021 Dev Matching](#2021-Dev-Matching) -->
-
+<!-- 
 <br>
 <br>
 
@@ -389,7 +391,7 @@
 | 교육과정 후기 | [NextStep TDD, Clean Code with Java 과정을 끝내고](https://justpanda.tistory.com/29?category=945214) | 그냥팬더 | 2021/05/30 |
 | 교육과정 소개 | [TDD, Clean Code with Java 시작하며..](https://loopstudy.tistory.com/34) | loop-study | 2021/03/18 |
 | 교육과정 후기 | [Next Step - 온라인 후기](https://brunch.co.kr/@javajigi/19#comment) | 박재성 | 2020/07/08 |
-| 교육과정 후기 | [[후기] NextStep - TDD, Clean Code with Java](https://jjingho.tistory.com/42) | 짱호 | 2020/10/20 |
+| 교육과정 후기 | [[후기] NextStep - TDD, Clean Code with Java](https://jjingho.tistory.com/42) | 짱호 | 2020/10/20 | -->
 
 <!-- # [프로그래머스](https://programmers.co.kr/)
 
