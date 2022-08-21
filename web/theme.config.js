@@ -1,6 +1,6 @@
 export default {
   projectLink: 'https://github.com/junghyeonsu/awesome-dev-activity-review', // GitHub link in the navbar
-  docsRepositoryBase: 'https://github.com/junghyeonsu/awesome-dev-activity-review/tree/main/web', // base URL for the docs repository
+  docsRepositoryBase: 'https://github.com/junghyeonsu/awesome-dev-activity-review/tree/main/web/pages', // base URL for the docs repository
   defaultMenuCollapsed: false,
   nextLinks: true,
   prevLinks: true,
