@@ -84,13 +84,13 @@ import authors from '../../authors.json';
 | 인턴 후기 | [인턴 중간 회고](https://junghyeonsu-dev.vercel.app/posts/Daangn-intern-middle-retrospect) | <Author author={authors.정현수} /> | 2022/08/07 |
 ```
 
-**[만약 `authors`에 추가가 안되어있다면?](#author-등록하기)**
+**중요한 점**
+
+1. 작성자에는 `Author` 컴포넌트에 `author` props를 넘겨주어야 합니다.
+2. 현재는 마크다운의 테이블 문법을 사용하고 있습니다.
+3. **[만약 `authors`에 추가가 안되어있다면?](#author-등록하기)**
 
 그 다음은 `meta.ko.json` 파일을 수정해줘야 웹에 카테고리로 뜨게됩니다.
-
-앞에 `key`값은 새롭게 생성한 리뷰활동 파일명에서 `ko.mdx`를 뺀 값을 넣어줘야 합니다. 
-
-`value` 값은 웹에서 띄우고자 하는 텍스트를 적어줍니다.
 
 ```json
 {
@@ -98,6 +98,11 @@ import authors from '../../authors.json';
   "2022-summer-tech-internship": "2022 윈터테크 인턴십"
 }
 ```
+
+**중요한 점**
+
+1. 앞에 `key`값은 새롭게 생성한 리뷰활동 파일명에서 `ko.mdx`를 뺀 값을 넣어줘야 합니다. 
+2. `value` 값은 웹에서 띄우고자 하는 텍스트를 적어줍니다.
 
 ## 존재하지 않는 기업 추가
 
