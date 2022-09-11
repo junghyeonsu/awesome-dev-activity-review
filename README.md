@@ -1,51 +1,18 @@
-![undraw_Code_review_re_woeb](https://user-images.githubusercontent.com/54893898/148061590-b620eafe-15e3-405b-9a37-8c8744f4e856.png)
-
-# [2022/08/21 웹 추가](https://awesome-dev-activity-review.vercel.app/)
-
 # 📃 awesome-dev-activity-review
+
+![undraw_Code_review_re_woeb](https://user-images.githubusercontent.com/54893898/148061590-b620eafe-15e3-405b-9a37-8c8744f4e856.png)
 
 ### 세상의 모든 개발 활동 리뷰 모음
 
-<br>
-<br>
+**[👉 개발 활동들 보러가기](https://awesome-dev-activity-review.vercel.app/)**
 
 # 👋 Introduction
 
-**개발 활동(교육 프로그램, 인턴, 코딩테스트, 면접, 세미나)** 의 리뷰를 모으는 곳입니다.<br>
-**취업 활동, 인턴, 교육 프로그램**과 같은 활동을 신청하기 전에 이 곳의 리뷰를 보고 참고를 할 수 있습니다.<br>
-모든 정보가 다양한 플랫폼, 블로그에 흩어져있어 모아서 볼 수 있는 곳이 있으면 좋겠다고 생각해 만들게 되었습니다.<br>
+**개발 활동(교육 프로그램, 인턴, 코딩테스트, 면접, 세미나)** 의 리뷰를 모으는 곳입니다.
 
-<br>
-<br>
+**취업 활동, 인턴, 교육 프로그램**과 같은 활동을 신청하기 전에 이 곳의 리뷰를 보고 참고를 할 수 있습니다. 모든 정보가 다양한 플랫폼, 블로그에 흩어져있어 모아서 볼 수 있는 곳이 있으면 좋겠다고 생각해 만들게 되었습니다.
 
-# 👉 Rule
-
-> 작성중입니다.
-
-리뷰는 **느낀 점** 만 적어놓은 글은 올리지 않습니다.<br>
-양질의 글을 최대한 뽑으려고 합니다.
-
-<br>
-<br>
-
-# 🙏 Contribute
-
-모든 글들은 해당 글 주인의 허락을 맡고 올릴 예정입니다.<br>
-또는 자신이 직접 올리고 싶다면 `Issue`를 올려주세요.<br>
-`Issue`는 `Issue Template`를 참고해주세요.<br>
-
-[이슈 쓰러가기](https://github.com/junghyeonsu/awesome-dev-activity-review/issues/new)
-
-```
-<!--
-  - 글 제목: 카카오 지원 후기
-  - 작성자: 정현수
-  - 날짜: 2021/03/12 (양식을 지켜주세요!)
-  - 리뷰 링크: https://github.com/junghyeonsu
-  - 지원 혹은 활동 기업: (카카오, 토스, 네이버, 우아한형제들, etc...)
-  - 활동 종류: (인턴 후기, 코딩테스트 후기, 전체 회고, 면접 후기, 등등)
--->
-```
+# 🙏 [Contribution](/CONTRIBUTING.md)
 
 <!-- <br>
 <br>
