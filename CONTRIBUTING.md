@@ -1,3 +1,12 @@
+# 목차
+
+- [개발환경 세팅하기](#개발환경-세팅하기)
+- [리뷰 추가하기](#리뷰-추가하기)
+	-[기존에 존재하는 리뷰활동 추가](#기존에-존재하는-리뷰활동-추가)
+	-[기존에 존재하는 않는 리뷰활동 추가](#기존에-존재하지-않는-리뷰활동-추가)
+	-[존재하지 않는 기업 추가](#존재하지-않는-기업-추가)
+- [author 등록하기](#author-등록하기)
+
 # 개발환경 세팅하기
 
 ```bash
@@ -18,7 +27,7 @@ $ yarn dev
 
 # 리뷰 추가하기
 
-### 기존에 존재하는 리뷰활동 추가
+## 기존에 존재하는 리뷰활동 추가
 
 `web` 파일의 구조를 살펴보면
 
@@ -50,10 +59,10 @@ $ yarn dev
 
 **중요한 점**
 
-1. 
+1. 작성자에는 `Author` 컴포넌트에 `author` props를 넘겨주어야 합니다.
 2. 현재는 마크다운의 테이블 문법을 사용하고 있습니다. 한 줄을 추가해서 `Pull Request`를 날리면 됩니다.
 
-### 기존에 존재하지 않는 리뷰활동 추가
+## 기존에 존재하지 않는 리뷰활동 추가
 
 기업은 존재하는데, 리뷰활동이 존재하지 않는다면 `mdx` 파일도 추가하고, 해당 기업의 `meta.ko.json` 파일을 수정해야 합니다.
 
@@ -75,7 +84,7 @@ import authors from '../../authors.json';
 | 인턴 후기 | [인턴 중간 회고](https://junghyeonsu-dev.vercel.app/posts/Daangn-intern-middle-retrospect) | <Author author={authors.정현수} /> | 2022/08/07 |
 ```
 
-**[만약 `authors`에 추가가 안되어있다면?](#authors-추가하기)**
+**[만약 `authors`에 추가가 안되어있다면?](#author-등록하기)**
 
 그 다음은 `meta.ko.json` 파일을 수정해줘야 웹에 카테고리로 뜨게됩니다.
 
@@ -90,11 +99,11 @@ import authors from '../../authors.json';
 }
 ```
 
-### 존재하지 않는 기업 추가
+## 존재하지 않는 기업 추가
 
 [이슈를 남겨주세요.](https://github.com/junghyeonsu/awesome-dev-activity-review/issues/new) 최대한 빨리 추가해드립니다`^_^`
 
-# authors 추가하기
+# author 등록하기
 
 `awesome-dev-activity-review`는 기여를 해준 사람을 `authors.json` 파일에서 관리하고 있습니다. 만약 기여가 처음이라면 해당 파일에 자신의 이름을 추가하고 `pull request`를 날려주세요.
 
