@@ -1,174 +1,178 @@
 {
-	"정현수": {
-		"name": "정현수",
-		"blog": "https://junghyeonsu-dev.vercel.app/"
-	},
-	"개발하는지토": {
-		"name": "개발하는 지토",
-		"blog": ""
-	},
-	"DD": {
-		"name": "DD",
-		"blog": ""
-	},
-	"HovLog": {
-		"name": "Hov log",
-		"blog": ""
-	},
-	"compy": {
-		"name": "compy",
-		"blog": ""
-	},
-	"prefer2": {
-		"name": "prefer2",
-		"blog": ""
-	},
-	"김예지": {
-		"name": "김예지",
-		"blog": ""
-	},
-	"SeongWonOh": {
-		"name": "SeongWon Oh",
-		"blog": ""
-	},
-	"이동현": {
-		"name": "이동현",
-		"blog": ""
-	},
-	"아놀드": {
-		"name": "아놀드",
-		"blog": ""
-	},
-	"김동규": {
-		"name": "김동규",
-		"blog": ""
-	},
-	"jswith": {
-		"name": "jswith",
-		"blog": ""
-	},
-	"babyDev": {
-		"name": "baby_dev",
-		"blog": ""
-	},
-	"행복한시지프": {
-		"name": "행복한시지프",
-		"blog": ""
-	},
-	"윤성": {
-		"name": "윤성",
-		"blog": ""
-	},
-	"travelbeeee": {
-		"name": "travelbeeee",
-		"blog": ""
-	},
-	"VSFe": {
-		"name": "VSFe",
-		"blog": ""
-	},
-	"ENAN": {
-		"name": "ENAN",
-		"blog": ""
-	},
-	"Mark31": {
-		"name": "Mark31",
-		"blog": ""
-	},
-	"산격동너구리": {
-		"name": "산격동 너구리",
-		"blog": ""
-	},
-	"hellojane": {
-		"name": "hellojane",
-		"blog": ""
-	},
-	"somida": {
-		"name": "somida",
-		"blog": ""
-	},
-	"DevPingu": {
-		"name": "Dev_Pingu",
-		"blog": ""
-	},
-	"건강한개발자": {
-		"name": "건강한개발자",
-		"blog": ""
-	},
-	"우리로": {
-		"name": "우리로",
-		"blog": ""
-	},
-	"뀨뀨찬찬": {
-		"name": "뀨뀨찬찬",
-		"blog": ""
-	},
-	"징진": {
-		"name": "징진",
-		"blog": ""
-	},
-	"코린이입니다": {
-		"name": "코린이입니다",
-		"blog": ""
-	},
-	"backtony": {
-		"name": "backtony",
-		"blog": ""
-	},
-	"samslow": {
-		"name": "samslow",
-		"blog": ""
-	},
-	"경문이네개발일지": {
-		"name": "경문이네 개발 일지",
-		"blog": ""
-	},
-	"MinSeoCho": {
-		"name": "MinSeoCho",
-		"blog": ""
-	},
-	"genyf": {
-		"name": "genyf",
-		"blog": ""
-	},
-	"개발하는크롱": {
-		"name": "개발하는 크롱",
-		"blog": ""
-	},
-	"algosketch": {
-		"name": "algosketch",
-		"blog": ""
-	},
-	"종이비행기": {
-		"name": "종이비행기",
-		"blog": ""
-	},
-	"HyunsooLukeHA": {
-		"name": "Hyunsoo Luke HA",
-		"blog": ""
-	},
-	"동효": {
-		"name": "동효",
-		"blog": ""
-	},
-	"그냥팬더": {
-		"name": "그냥팬더",
-		"blog": ""
-	},
-	"loopStudy": {
-		"name": "loop-study",
-		"blog": ""
-	},
-	"박재성": {
-		"name": "박재성",
-		"blog": ""
-	},
-	"짱호": {
-		"name": "짱호",
-		"blog": ""
-	},
-	"SKaSha": {
-		"name": "SKaSha",
-		"blog": ""
-	}
+  "정현수": {
+    "name": "정현수",
+    "blog": "https://junghyeonsu-dev.vercel.app/"
+  },
+  "개발하는지토": {
+    "name": "개발하는 지토",
+    "blog": ""
+  },
+  "DD": {
+    "name": "DD",
+    "blog": ""
+  },
+  "HovLog": {
+    "name": "Hov log",
+    "blog": ""
+  },
+  "compy": {
+    "name": "compy",
+    "blog": ""
+  },
+  "prefer2": {
+    "name": "prefer2",
+    "blog": ""
+  },
+  "김예지": {
+    "name": "김예지",
+    "blog": ""
+  },
+  "SeongWonOh": {
+    "name": "SeongWon Oh",
+    "blog": ""
+  },
+  "이동현": {
+    "name": "이동현",
+    "blog": ""
+  },
+  "아놀드": {
+    "name": "아놀드",
+    "blog": ""
+  },
+  "김동규": {
+    "name": "김동규",
+    "blog": ""
+  },
+  "jswith": {
+    "name": "jswith",
+    "blog": ""
+  },
+  "babyDev": {
+    "name": "baby_dev",
+    "blog": ""
+  },
+  "행복한시지프": {
+    "name": "행복한시지프",
+    "blog": ""
+  },
+  "윤성": {
+    "name": "윤성",
+    "blog": ""
+  },
+  "travelbeeee": {
+    "name": "travelbeeee",
+    "blog": ""
+  },
+  "VSFe": {
+    "name": "VSFe",
+    "blog": ""
+  },
+  "ENAN": {
+    "name": "ENAN",
+    "blog": ""
+  },
+  "Mark31": {
+    "name": "Mark31",
+    "blog": ""
+  },
+  "산격동너구리": {
+    "name": "산격동 너구리",
+    "blog": ""
+  },
+  "hellojane": {
+    "name": "hellojane",
+    "blog": ""
+  },
+  "somida": {
+    "name": "somida",
+    "blog": ""
+  },
+  "DevPingu": {
+    "name": "Dev_Pingu",
+    "blog": ""
+  },
+  "건강한개발자": {
+    "name": "건강한개발자",
+    "blog": ""
+  },
+  "우리로": {
+    "name": "우리로",
+    "blog": ""
+  },
+  "뀨뀨찬찬": {
+    "name": "뀨뀨찬찬",
+    "blog": ""
+  },
+  "징진": {
+    "name": "징진",
+    "blog": ""
+  },
+  "코린이입니다": {
+    "name": "코린이입니다",
+    "blog": ""
+  },
+  "backtony": {
+    "name": "backtony",
+    "blog": ""
+  },
+  "samslow": {
+    "name": "samslow",
+    "blog": ""
+  },
+  "경문이네개발일지": {
+    "name": "경문이네 개발 일지",
+    "blog": ""
+  },
+  "MinSeoCho": {
+    "name": "MinSeoCho",
+    "blog": ""
+  },
+  "genyf": {
+    "name": "genyf",
+    "blog": ""
+  },
+  "개발하는크롱": {
+    "name": "개발하는 크롱",
+    "blog": ""
+  },
+  "algosketch": {
+    "name": "algosketch",
+    "blog": ""
+  },
+  "종이비행기": {
+    "name": "종이비행기",
+    "blog": ""
+  },
+  "HyunsooLukeHA": {
+    "name": "Hyunsoo Luke HA",
+    "blog": ""
+  },
+  "동효": {
+    "name": "동효",
+    "blog": ""
+  },
+  "그냥팬더": {
+    "name": "그냥팬더",
+    "blog": ""
+  },
+  "loopStudy": {
+    "name": "loop-study",
+    "blog": ""
+  },
+  "박재성": {
+    "name": "박재성",
+    "blog": ""
+  },
+  "짱호": {
+    "name": "짱호",
+    "blog": ""
+  },
+  "SKaSha": {
+    "name": "SKaSha",
+    "blog": ""
+  },
+  "오혜성": {
+    "name": "오혜성",
+    "blog": "https://www.hyesungoh.xyz/"
+  }
 }
